@@ -16,7 +16,7 @@ body {
 }
 .game {
     height: 60vmin;
-    width: 60vmin;
+    width: 70vmin;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -55,8 +55,20 @@ body {
     font-size: 8vmin;
 }
 .msg-container {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
     height: 15vmin;
+    /* flex-wrap: wrap; */
 } 
 .hide {
     display: none;
+}
+
+.zoom {
+    transform: scale(1.07);
+}
+
+.color {
+    background-color: #e2e2d1;
 }
