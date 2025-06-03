@@ -22,10 +22,14 @@ boxes.forEach((box) => {
         if (turnO) { //playerO
             box.innerText = "O";
             turnO = false;
+            box.classList.add("zoom");
+            box.classList.add("color");
         }
         else { //playerX
             box.innerText = "X";
             turnO = true;
+            box.classList.add("zoom");
+            box.classList.add("color");
         }
         box.disabled = true;
         console.log("Box was clicked.");
@@ -51,6 +55,8 @@ resetBtn.addEventListener("click", () => {
 const disableBtns = () => {
     msgContainer.classList.remove("hide");
     for(let box of boxes) {
+        // box.classList.remove("zoom");
+        // box.classList.remove("color");
         box.disabled = true;
     }
 };
@@ -59,6 +65,8 @@ const disableBtns = () => {
 const enableBtns = () => {
     msgContainer.classList.add("hide");
     boxes.forEach((box) => {
+        box.classList.remove("zoom");
+        box.classList.remove("color");
         box.disabled = false;
         box.innerText = "";
     });
