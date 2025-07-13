@@ -33,5 +33,12 @@ No dependencies or server setup needed—just pure frontend magic!
    <h4>• 	🎨 Custom themes or avatar selection</h4>
    <h4>• 	📊 Score tracking across multiple rounds</h4>
 </p>
-🙌 Credits
-Made with ❤️ by Mohit Kumar
+- 🙌 Credits
+-   Made with ❤️ by Mohit Kumar
+- 📄 License
+<p>
+   This project is open source and available under the MIT License.
+</p>
+<p>
+   If you'd like help customizing the markdown with badges, a live preview GIF, or adding project structure notes, I’ve got your back. Want to level it up further? Maybe we could gamify     the UI or add animations.
+</p>
