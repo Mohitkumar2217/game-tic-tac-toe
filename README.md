@@ -29,9 +29,9 @@ No dependencies or server setup needed—just pure frontend magic!
 </p>
 🛠️ Future Enhancements
 <p align="left">
-   • 	🤖 Single-player mode with AI opponent
-   • 	🎨 Custom themes or avatar selection
-   • 	📊 Score tracking across multiple rounds
+   <h4>• 	🤖 Single-player mode with AI opponent</h4>
+   <h4>• 	🎨 Custom themes or avatar selection</h4>
+   <h4>• 	📊 Score tracking across multiple rounds</h4>
 </p>
 🙌 Credits
 Made with ❤️ by Mohit Kumar
