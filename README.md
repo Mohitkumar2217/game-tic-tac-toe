@@ -25,11 +25,13 @@ Welcome to my implementation of the classic **Tic-Tac-Toe** game! This is a fun 
 No dependencies or server setup needed—just pure frontend magic!
 📸 Screenshots
 <p>
-  <img width="818" height="674" alt="Screenshot 2025-07-13 204206" src="https://github.com/user-attachments/assets/3c3e0371-65b0-4210-a796-40447bb64d53" />
+  <img width="81" height="67" alt="Screenshot 2025-07-13 204206" src="https://github.com/user-attachments/assets/3c3e0371-65b0-4210-a796-40447bb64d53" />
 </p>
 🛠️ Future Enhancements
-• 	🤖 Single-player mode with AI opponent
-• 	🎨 Custom themes or avatar selection
-• 	📊 Score tracking across multiple rounds
+<p align="left">
+   • 	🤖 Single-player mode with AI opponent
+   • 	🎨 Custom themes or avatar selection
+   • 	📊 Score tracking across multiple rounds
+</p>
 🙌 Credits
 Made with ❤️ by Mohit Kumar
