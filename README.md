@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game
+8# 🎮 Tic-Tac-Toe Game
 
 Welcome to my implementation of the classic **Tic-Tac-Toe** game! This is a fun and interactive two-player web-based game built using **HTML, CSS, and JavaScript**.
 
@@ -34,8 +34,4 @@ No dependencies or server setup needed—just pure frontend magic!
    <h4>• 	📊 Score tracking across multiple rounds</h4>
 </p>
 - 🙌 Credits
--   Made with ❤️ by Mohit Kumar
-- 📄 License
-<p>
-   This project is open source and available under the MIT License.
-</p>
+-  Made by Mohit Kumar
